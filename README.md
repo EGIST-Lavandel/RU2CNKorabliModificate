@@ -1,0 +1,2 @@
+# RU2CNKorabliModificate
+项目致力于修缮与更新游戏内不包含的中文本地化翻译
