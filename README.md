@@ -4,6 +4,7 @@
 即eSotecia Grandiloquento d'isolato Sequenzat。
 # 如何使用？
 非常简单，只需要在Release中下载最新的压缩包，或下载global.mo文件（如果你已经配置好了res_mods下的fontconfig.xml与local_config.xml的话）到对应版本的res_mods/texts/ru/LC_MESSAGES/下即可。
+在本仓库[Releases](https://github.com/EGIST-Lavandel/RU2CNKorabliModificate/releases/latest)中，下载该发布版本下的`global.mo`文件
 # Q&A
 - Q：为什么兵工厂、造船厂没有被翻译？
 
