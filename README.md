@@ -19,4 +19,4 @@ Release中标明Major的为主要更新，最好更新以免游戏内容错误&�
   A：部分意译的船只与其他船只的名字相冲突，故优先级为先使用这一名称的船只，如英国的无畏舰-无畏号与苏联的乌达洛伊-无畏号，根据规则以英国的无畏号优先使用；
   另一种情况是该名称已经广为人知，在此作修改可能会引起玩家群体的疑惑。
 # EGIST
-即eSotecia Grandiloquento d'isolato Sequenzat。
+即eSotecia Grandiloquento d'isolato Sequenzat，那隔世而存的祗所，是非正常人类所属，是被世人排挤，是清醒。
